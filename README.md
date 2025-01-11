@@ -24,4 +24,6 @@ O **OldPortfolio** está **desativado no momento** e não está mais online, mas
 ---
 
 Obrigado por conferir meu primeiro portfólio! 🙌  
-Desenvolvido com 💻 por [Gustavo Oliveira](https://github.com/seu-usuario).
+## 🖼️ Visual do Projeto
+
+![OldPortifolio Screenshot](/fotos/ftReadMe.png)
